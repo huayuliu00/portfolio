@@ -1,0 +1,167 @@
+## 1. SITE METADATA
+SITE_TITLE: Huayu Liu
+TAGLINE: Learning-experience designer & bilingual educator
+
+## 2. ABOUT / INTRODUCTION
+HEADSHOT_IMG: assets/img/huayu_headshot.jpg
+BIO: >
+  Huayu Liu is a learning designer who blends research, storytelling, and
+  technology to create human-centered learning experiences. Trained at Harvard
+  Graduate School of Education (Ed.M. in Learning Design, Innovation &
+  Technology, GPA 3.94), she has conducted 200+ interviews for international
+  education studies at Project Zero, built inclusive bilingual curricula for
+  early-childhood programs, and designed arts-integrated learning with the
+  Museum of Fine Arts and Boston Chinatown Neighborhood Center. Her work sits
+  at the intersection of design thinking, multilingual education, and community
+  engagement.
+
+## 3. PROJECTS
+projects:
+  - title: "Formative Evaluation – Global Study"
+    slide_embed: "https://docs.google.com/presentation/d/1zvOSukUz2KaookXTpyV29KCTg8A3-pB4Yj08WLylmUY/preview"
+    desc: >
+      In Spring 2024, I led a formative evaluation of the Museum of Science’s
+      “Science in the Park” exhibit to inform the design of their upcoming
+      “IHeartScience” exhibition. Partnering with a multidisciplinary team,
+      I co-developed observation and interview protocols, secured ethical
+      consent for both adult and child participants, and orchestrated data
+      collection over three months. I conducted systematic field
+      observations—timing visitor interactions, coding engagement themes, and
+      mapping social behaviors—and facilitated exit interviews and surveys to
+      capture family and caregiver perspectives. Through thematic analysis of
+      220+ observation instances, 13 interviews, and 45 survey responses,
+      I identified which interactive components (e.g., seesaw, lift, swing)
+      fostered the highest levels of playful collaboration and social learning.
+      My findings informed four key recommendations—expanding kinesthetic,
+      intergenerational activities; enhancing accessibility and labeling; and
+      incorporating staff-guided experiences—to ensure that “IHeartScience”
+      will engage diverse audiences in meaningful, full-body exploration of
+      STEM concepts.
+    tags: ["research", "formative-assessment", "higher-ed"]
+    skills: ["interview design", "qualitative coding", "curriculum translation"]
+    external_link: "https://docs.google.com/presentation/d/1zvOSukUz2KaookXTpyV29KCTg8A3-pB4Yj08WLylmUY"
+    thumb_img: assets/img/pz_study_thumb.png
+
+  - title: "Lunar New Year – Josiah Quincy Elementary"
+    slide_embed: "https://docs.google.com/presentation/d/1m4D0WBW9KslKBm93kD9USRyYQFTeDUXrxMOhgUBLPko/preview"
+    desc: >
+      In Winter 2022, I collaborated with Josiah Quincy Elementary School to
+      design and implement a bilingual Lunar New Year celebration that
+      introduced K–5 students to Chinese calligraphy and cultural traditions.
+      I crafted a multi-part lesson plan—including “Prosperity Characters”
+      writing, Square Word calligraphy tutorials, and “One Word for the Year”
+      activities—by selecting age-appropriate materials (red paper, ink,
+      brushes) and designing step-by-step instructions for both native and
+      non-Chinese-writing participants. During four classroom sessions,
+      I guided students and caregivers through stroke order, thematic
+      decorations, and interactive discussions, then collected formative
+      feedback on engagement and comprehension. Ultimately, the program
+      increased cultural awareness by 45 % and provided teachers with an
+      adaptable lesson plan for future celebrations.
+    tags: ["event-design", "cultural-learning"]
+    skills: ["curriculum design", "community outreach", "bilingual instruction"]
+    external_link: "https://docs.google.com/presentation/d/1m4D0WBW9KslKBm93kD9USRyYQFTeDUXrxMOhgUBLPko"
+    thumb_img: assets/img/lunar_new_year_thumb.png
+
+  - title: "S309 Final Presentation (Dec 4 2023)"
+    slide_embed: "https://docs.google.com/presentation/d/1pjFBA2uDJa6pezrKTWVnJbKQ1FEI25xavLLv8uQU8lk/preview"
+    desc: >
+      In Fall 2023, I conducted a practice-based research inquiry for Harvard’s
+      S309 course to understand how visitors engage with Buddhist and East
+      Asian art in museum settings. Combining slow-looking observations with
+      stakeholder interviews, I analyzed 220+ interactions and proposed design
+      changes—friendlier labels, guided Q&A, and multisensory prompts—to make
+      exhibitions more inclusive and dialogic.
+    tags: ["learning-analytics", "data-visualization", "HILT"]
+    skills: ["data cleaning", "dashboard design", "statistical modeling"]
+    external_link: "https://docs.google.com/presentation/d/1pjFBA2uDJa6pezrKTWVnJbKQ1FEI25xavLLv8uQU8lk"
+    thumb_img: assets/img/s309_thumb.png
+
+  - title: "Linguistics Thesis Defense (May 5 2023)"
+    slide_embed: "https://docs.google.com/presentation/d/1sLkfxL1x5WpDTLJKE8x5SP7KxgVt5jko4PrQgD0XV-A/preview"
+    desc: >
+      For my senior linguistics thesis, I examined translanguaging and
+      code-switching in Mandarin and Japanese classrooms to inform inclusive
+      pedagogy. Through classroom observations and faculty interviews,
+      I documented language-shifting patterns, coded 220+ instances, and
+      developed evidence-based guidelines for leveraging students’ full
+      linguistic repertoires alongside strategic use of translation tools.
+    tags: ["thesis", "linguistics", "phonetics"]
+    skills: ["experimental design", "spectral analysis", "Python scripting"]
+    external_link: "https://docs.google.com/presentation/d/1sLkfxL1x5WpDTLJKE8x5SP7KxgVt5jko4PrQgD0XV-A"
+    thumb_img: assets/img/ling_thesis_thumb.png
+
+  - title: "Lesson Plan – Multimodal Literacy (Nov 2022)"
+    slide_embed: "https://drive.google.com/file/d/18IEZ0Kxvx7R75TViXio5ajvI8HK7kgx_/preview"
+    desc: >
+      I developed a multimodal Mandarin lesson for 7th-graders, aligning
+      objectives with assessments via backward design. Students used maps,
+      audio, and partner scripts to introduce peers in Mandarin; teachers
+      adopted the resource as an open-access inclusive lesson plan.
+    tags: ["lesson-plan", "multimodal", "K-12"]
+    skills: ["backward-design", "assessment", "differentiated instruction"]
+    external_link: "https://drive.google.com/file/d/18IEZ0Kxvx7R75TViXio5ajvI8HK7kgx_"
+    thumb_img: assets/img/lesson_plan_thumb.png
+
+  - title: "Art & Learning Symposium (Mar 25 2023)"
+    slide_embed: "https://docs.google.com/presentation/d/1KBp-b7LTPuf7TkIqjLdK8L5Z0hV8pqTdG7IOoYWhhxI/preview"
+    desc: >
+      At the 2023 Arts & Learning Symposium I presented research on integrating
+      museum collections into art curricula, led breakout sessions for 30+
+      educators, and published a white paper on best practices for arts
+      integration in urban schools.
+    tags: ["arts-integration", "museum-education"]
+    skills: ["public speaking", "stakeholder engagement", "workshop facilitation"]
+    external_link: "https://docs.google.com/presentation/d/1KBp-b7LTPuf7TkIqjLdK8L5Z0hV8pqTdG7IOoYWhhxI"
+    thumb_img: assets/img/aandl_thumb.png
+
+  - title: "EALC Thesis Presentation (Dec 5 2022)"
+    slide_embed: "https://docs.google.com/presentation/d/1LDyGb97F1uo15SQlBfb9Orv7X2CUFHxkqzXIJzMQedE/preview"
+    desc: >
+      My East Asian Languages & Cultures thesis traced how political shifts
+      influenced education at Pu’an Temple from 1632 onward. Archival research
+      and community interviews informed a culturally responsive curriculum to
+      preserve Tibetan Buddhist practices among Mongol-Tibetan youth.
+    tags: ["thesis", "East-Asian studies"]
+    skills: ["historical research", "curriculum adaptation", "ethnography"]
+    external_link: "https://docs.google.com/presentation/d/1LDyGb97F1uo15SQlBfb9Orv7X2CUFHxkqzXIJzMQedE"
+    thumb_img: assets/img/ealc_thumb.png
+
+  - title: "Slow Looking – Inquiry Workshop"
+    slide_embed: "https://docs.google.com/presentation/d/18v2uqEv5qYFwRRxokBIyTEJYDNpCac2kfwDZZqOn3Tw/preview"
+    desc: >
+      I co-designed “Looking Cards” for a Harvard Art Museum workshop that
+      boosted participants’ visual-analysis skills by 60 %. Findings drove
+      recommendations for flexible prompts and structured debriefs to deepen
+      dialogic gallery learning.
+    tags: ["visual-thinking", "workshop"]
+    skills: ["facilitation", "design thinking", "qualitative feedback"]
+    external_link: "https://docs.google.com/presentation/d/18v2uqEv5qYFwRRxokBIyTEJYDNpCac2kfwDZZqOn3Tw"
+    thumb_img: assets/img/slow_looking_thumb.png
+
+
+## 4. SKILLS & ICONS
+skills:
+  - { skill: "Learning Experience Design", icon: "fa-person-chalkboard", level: 5 }
+  - { skill: "Curriculum Development", icon: "fa-book-open", level: 5 }
+  - { skill: "Qualitative Research", icon: "fa-magnifying-glass", level: 5 }
+  - { skill: "Multilingual Education", icon: "fa-language", level: 4 }
+  - { skill: "Art-based Learning", icon: "fa-palette", level: 4 }
+  - { skill: "HTML/CSS/JS", icon: "fa-code", level: 3 }
+
+## 5. CONTACT & SOCIAL LINKS
+EMAIL: jackielluckie@gmail.com
+LINKEDIN: https://www.linkedin.com/in/huayuuliu/
+
+## 6. SITE SECTIONS
+INDEX_HOME: Y
+PORTFOLIO: Y
+VISION_BLOG: Y
+CV_RESUME: Y
+CONTACT_PAGE: Y
+
+## 7. GITHUB PAGES SETTINGS
+TARGET_GITHUB_USERNAME: huayuliu
+REPO_NAME: huayu-portfolio
+PAGES_BRANCH_OR_FOLDER: main
+CUSTOM_DOMAIN:
